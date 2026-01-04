@@ -85,14 +85,3 @@ All datasets were processed and harmonized in R prior to visualization.
 
 ---
 
-## Cartographic Considerations
-
-Key cartographic decisions underpinning this work include:
-- The use of **choropleth mapping** for structural, long-term indicators and **proportional symbols** for event-based impacts.
-- Explicit treatment of missing data to avoid misleading interpretations.
-- Use of perceptually balanced colour schemes and symbol scaling to enhance readability.
-- Layer ordering and interaction handling to preserve thematic clarity during user interaction.
-
----
-
-md
