@@ -19,7 +19,7 @@ The interactive web map is available at:
 
 ## Objective
 
-The objective of this project is to explore whether disparities in access to basic services—such as water, sanitation, and energy—are associated with variations in the human impacts of disasters across Africa. The map provides a visual, exploratory tool to support comparative spatial analysis and geospatial storytelling aligned with the Sustainable Development Goals (SDGs).
+The objective of this project is to explore whether disparities in access to basic services such as water, sanitation, and energy are associated with variations in the human impacts of disasters across Africa. The map provides a visual, exploratory tool to support comparative spatial analysis and geospatial storytelling aligned with the Sustainable Development Goals (SDGs).
 
 ---
 
