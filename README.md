@@ -10,7 +10,7 @@ The work was developed as part of an **Advanced Cartography** assignment and dem
 
 The interactive web map is available at:
 
-**https://<your-username>.github.io/<repository-name>/**
+**https://rpubs.com/marymuthee/disasters_and_sdg1**
 
 ---
 
@@ -95,14 +95,4 @@ Key cartographic decisions underpinning this work include:
 
 ---
 
-## Repository Structure
-
-```text
-├── data/
-│   ├── basic_services.geojson
-│   └── disasters.geojson
-├── scripts/
-│   └── webmap.R
-├── docs/
-│   └── index.html      # rendered interactive map (GitHub Pages)
-├── README.md
+md
