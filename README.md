@@ -1,5 +1,7 @@
 # Access to Basic Services and Disaster Impact in Africa (2022)
-
+<p align="center">
+  <img src="map_preview.png" width="850">
+</p>
 This repository presents an interactive web-based cartographic visualization examining the spatial relationship between **access to basic services (SDG Indicator 1.4.1)** and **disaster impact severity** across African countries in 2022.
 
 The work was developed as part of an **Advanced Cartography** assignment and demonstrates the integration of geospatial data processing, thematic cartography, and interactive web mapping using R and Leaflet.
